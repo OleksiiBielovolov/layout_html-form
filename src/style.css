@@ -1,1 +1,11 @@
-/* styles go here */
+.form-field {
+  display: block;
+}
+
+.marginBetweenInputs {
+  margin-top: 10px;
+}
+
+.marginBetweenGroups {
+  margin-top: 20px;
+}
